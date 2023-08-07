@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayChallenge", "ArrayChallenge\ArrayChallenge.csproj", "{940C30AD-7B75-456D-9CAB-2623B2457F2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinatoricsChallenge", "CombinatoricsChallenge\CombinatoricsChallenge.csproj", "{35DCC78E-7055-45AE-A7C5-0C0BA1604914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringChallenge", "StringChallenge\StringChallenge.csproj", "{CEC1313B-9AFA-4343-97A2-D408573C02EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{940C30AD-7B75-456D-9CAB-2623B2457F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940C30AD-7B75-456D-9CAB-2623B2457F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940C30AD-7B75-456D-9CAB-2623B2457F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DCC78E-7055-45AE-A7C5-0C0BA1604914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DCC78E-7055-45AE-A7C5-0C0BA1604914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DCC78E-7055-45AE-A7C5-0C0BA1604914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DCC78E-7055-45AE-A7C5-0C0BA1604914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC1313B-9AFA-4343-97A2-D408573C02EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC1313B-9AFA-4343-97A2-D408573C02EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC1313B-9AFA-4343-97A2-D408573C02EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC1313B-9AFA-4343-97A2-D408573C02EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
